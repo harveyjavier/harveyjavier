@@ -6,7 +6,7 @@
 - 🚵 When I'm away from the monitor, I'm on the trails
 - ☕ Coffee is my fuel
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="Harvz' Github Stats" src="https://github-readme-stats.vercel.app/api?username=harveyjavier&show_icons=true&hide_border=true" />
 
 ### Connect with me:
 
