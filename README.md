@@ -1,9 +1,10 @@
 ### Hi there, I'm Harvz 👋
 
 ### About me:
-- 👨‍💻 I code while you sleep
-- 🎮 I love to play video games
+- 👨‍💻 I love to code and create something that is a solution to a problem
+- 🎮 I play video games on my spare time
 - 🚵 When I'm away from the monitor, I'm on the trails
+- 🏀 I used to play hoops before I tore my ACL on my right knee
 - ☕ Coffee is my fuel
 
 ### Connect with me:
