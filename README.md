@@ -18,6 +18,7 @@
 
 <br/><br/><br/>
 <img align="left" alt="Harvz' Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveyjavier&layout=compact" />
+<br/><br/>
 <img align="left" alt="Harvz' Github Stats" src="https://github-readme-stats.vercel.app/api?username=harveyjavier&show_icons=true&hide_border=true&theme=gotham" />
 
 [website]: https://harveyjavier.github.io
