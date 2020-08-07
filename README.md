@@ -16,6 +16,7 @@
 [<img align="left" alt="Instagram" width="30" src="https://raw.githubusercontent.com/harveyjavier/harveyjavier/master/raw/instagram-icon.png" />][instagram]
 [<img align="left" alt="Facebook" width="30" src="https://raw.githubusercontent.com/harveyjavier/harveyjavier/master/raw/facebook-icon.png" />][facebook]
 
+<br/><br/><br/>
 <img align="left" alt="Harvz' Top Programming Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harveyjavier&layout=compact" />
 <img align="left" alt="Harvz' Github Stats" src="https://github-readme-stats.vercel.app/api?username=harveyjavier&show_icons=true&hide_border=true&theme=gotham" />
 
