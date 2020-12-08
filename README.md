@@ -17,7 +17,7 @@
 [<img align="left" alt="Facebook" width="30" src="https://raw.githubusercontent.com/harveyjavier/harveyjavier/master/raw/facebook-icon.png" />][facebook]
 
 <br/><br/><br/>
-[![Harvz' Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=harveyjavier&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Harvz' Top PL](https://github-readme-stats.vercel.app/api/top-langs/?username=harveyjavier&layout=compact&show_icons=true&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 [![Harvz' GitHub Stats](https://github-readme-stats.vercel.app/api?username=harveyjavier&show_icons=true&hide_border=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://harveyjavier.github.io
