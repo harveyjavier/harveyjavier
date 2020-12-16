@@ -5,7 +5,7 @@ I'm Harvz. Lead Mobile and Game Developer of [SparkPoint] - a blockchain startup
 ### About me:
 - 👨‍💻 I love to code and create something that is a solution to a problem
 - 🚵 When I'm away from the monitor, I'm on the trails. It's been my zen and favorite recreational activity lately
-- 🎮 I play video games on my Switch and PC. But had less playing time lately. Been busy coding and shredding
+- 🎮 I play video games on my Switch and PC, but had less playing time lately. Been busy coding and shredding
 - 🏀 I used to play hoops before I tore my ACL on my right knee. Surgery and long recovery period locked me indoors, and opened an opportunity for me to improve my coding skills
 - ☕ Coffee is my fuel
 - ♾️ I'm a lifelong learner
