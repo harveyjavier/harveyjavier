@@ -28,7 +28,7 @@ I'm [Harvz]. Lead Mobile and Game Developer of [SparkPoint] - a blockchain start
 
 [SparkPoint]: https://sparkpoint.io/
 [Harvz]: https://harveyjavier.github.io
-[Gmail]: harveyjavier17@gmail.com
+[Gmail]: https://mail.google.com/mail/u/0/#inbox?compose=new
 [LinkedIn]: https://www.linkedin.com/in/harvz
 [Twitter]: https://www.twitter.com/harvzjavier
 [Instagram]: https://www.instagram.com/harvzjavier
