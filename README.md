@@ -1,17 +1,8 @@
 ### What's Up! 👋
 
-I'm [Harvz]. Lead Mobile and Game Developer of [SparkPoint] - a blockchain startup in the Philippines.
+I'm [Harvz]. Lead Mobile Developer of [SparkPoint] - one of the leading blockchain startup in the Philippines.
 
-### About me:
-- 👨‍💻 Hard Coder
-- 🚵 Mountain Biker
-- 🎮 Gamer
-- 🏀 Former Hooper
-- 🍺 Cerevisaphile
-- ☕ Javaphile
-- 🔱 INTJ-T
-- ♾️ Lifelong Learner
-- 📚 Philomath
+### Interests: 👨‍💻🚵🎮🍺☕♾️📚
 
 ### Connect with me:
 
