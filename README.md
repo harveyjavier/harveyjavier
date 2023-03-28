@@ -1,1 +1,1 @@
-![Mustachio #67](https://github.com/harveyjavier/harveyjavier/blob/main/assets/mustachio-67.gif)
+![Harvey Javier](https://github.com/harveyjavier/harveyjavier/blob/main/assets/building-on-icp-workshop.jpg)
