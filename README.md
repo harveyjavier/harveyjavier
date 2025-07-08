@@ -1,1 +1,1 @@
-![Harvey Javier](https://github.com/harveyjavier/harveyjavier/blob/main/assets/aod-w3-bootcamp-ghiblized.png)
+![Harvey Javier](https://github.com/harveyjavier/harveyjavier/blob/main/assets/building-on-icp-workshop-2.jpg)
